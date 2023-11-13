@@ -1,0 +1,19 @@
+C:\Users\Milo Trendel\Documents\Cours\USRS46\TD Jeu de la vie WF\bin\Debug\net7.0-windows\TD Jeu de la vie WF.exe
+C:\Users\Milo Trendel\Documents\Cours\USRS46\TD Jeu de la vie WF\bin\Debug\net7.0-windows\TD Jeu de la vie WF.deps.json
+C:\Users\Milo Trendel\Documents\Cours\USRS46\TD Jeu de la vie WF\bin\Debug\net7.0-windows\TD Jeu de la vie WF.runtimeconfig.json
+C:\Users\Milo Trendel\Documents\Cours\USRS46\TD Jeu de la vie WF\bin\Debug\net7.0-windows\TD Jeu de la vie WF.dll
+C:\Users\Milo Trendel\Documents\Cours\USRS46\TD Jeu de la vie WF\bin\Debug\net7.0-windows\TD Jeu de la vie WF.pdb
+C:\Users\Milo Trendel\Documents\Cours\USRS46\TD Jeu de la vie WF\obj\Debug\net7.0-windows\TD Jeu de la vie WF.csproj.AssemblyReference.cache
+C:\Users\Milo Trendel\Documents\Cours\USRS46\TD Jeu de la vie WF\obj\Debug\net7.0-windows\TD Jeu de la vie WF.csproj.GenerateResource.cache
+C:\Users\Milo Trendel\Documents\Cours\USRS46\TD Jeu de la vie WF\obj\Debug\net7.0-windows\TD Jeu de la vie WF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milo Trendel\Documents\Cours\USRS46\TD Jeu de la vie WF\obj\Debug\net7.0-windows\TD Jeu de la vie WF.AssemblyInfoInputs.cache
+C:\Users\Milo Trendel\Documents\Cours\USRS46\TD Jeu de la vie WF\obj\Debug\net7.0-windows\TD Jeu de la vie WF.AssemblyInfo.cs
+C:\Users\Milo Trendel\Documents\Cours\USRS46\TD Jeu de la vie WF\obj\Debug\net7.0-windows\TD Jeu de la vie WF.csproj.CoreCompileInputs.cache
+C:\Users\Milo Trendel\Documents\Cours\USRS46\TD Jeu de la vie WF\obj\Debug\net7.0-windows\TD Jeu de la vie WF.dll
+C:\Users\Milo Trendel\Documents\Cours\USRS46\TD Jeu de la vie WF\obj\Debug\net7.0-windows\refint\TD Jeu de la vie WF.dll
+C:\Users\Milo Trendel\Documents\Cours\USRS46\TD Jeu de la vie WF\obj\Debug\net7.0-windows\TD Jeu de la vie WF.pdb
+C:\Users\Milo Trendel\Documents\Cours\USRS46\TD Jeu de la vie WF\obj\Debug\net7.0-windows\TD Jeu de la vie WF.genruntimeconfig.cache
+C:\Users\Milo Trendel\Documents\Cours\USRS46\TD Jeu de la vie WF\obj\Debug\net7.0-windows\ref\TD Jeu de la vie WF.dll
+C:\Users\Milo Trendel\Documents\Cours\USRS46\TD Jeu de la vie WF\obj\Debug\net7.0-windows\TD_Jeu_de_la_vie_WF.Jeu.resources
+C:\Users\Milo Trendel\Documents\Cours\USRS46\TD Jeu de la vie WF\obj\Debug\net7.0-windows\TD_Jeu_de_la_vie_WF.Menu.resources
+C:\Users\Milo Trendel\Documents\Cours\USRS46\TD Jeu de la vie WF\obj\Debug\net7.0-windows\TD_Jeu_de_la_vie_WF.GameEditor.resources

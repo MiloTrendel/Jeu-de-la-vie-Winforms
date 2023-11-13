@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Controls\MainLabel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controls\MainPictureBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controls\GameButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="GameEditorAssets\BeginButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="GameEditorAssets\CellNumberButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="GameEditorAssets\SizeLabel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="GameEditorAssets\StartGrid.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="GameEditorAssets\TextBoxMulti.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Jeu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GameEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuAssets\AffichageSelector.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="MenuAssets\CelluleSelector.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="GameEditorAssets\RetourButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="GameEditorAssets\RandomCheckbox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="MenuAssets\StartButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="MenuAssets\Text.cs">
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
